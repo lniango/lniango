@@ -83,6 +83,6 @@ Engineering degree in **Image Processing & Computer Vision**, with industry expe
 
 ## 📫 Connect
 
-- * Portfolio: https://louisniango.vercel.app / https://lniango.github.io
+* Portfolio: https://louisniango.vercel.app / https://lniango.github.io
 * LinkedIn: https://www.linkedin.com/in/louis-niango-a2025b20a
 * GitHub: https://github.com/lniango
