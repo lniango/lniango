@@ -48,7 +48,7 @@ I enjoy bridging theory and practice by combining mathematical modeling, researc
 ## 🛠️ Tech Stack
 
 **Languages:** Python, C++, CUDA, Matlab  
-**Frameworks & Libraries:** PyTorch, TensorFlow, OpenCV, Scikit-learn, Open3D  
+**Frameworks & Libraries:** PyTorch, TensorFlow, OpenCV, Scikit-learn, Open3D, OpenGL
 **Tools:** Git, Linux, ONNX  
 
 ---
